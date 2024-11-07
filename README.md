@@ -7,7 +7,6 @@ Este projeto em Java é uma aplicação simples que recebe uma lista de nomes e 
 1. **Entrada de Nomes:**
    - O usuário é solicitado a inserir uma lista de nomes separados por vírgulas (exemplo: `Raphael, Barbara, Julia, Roberto, Ana, Yasmim`).
    - A aplicação remove espaços extras e ordena os nomes em ordem alfabética.
-   - asdasd
 
 2. **Entrada de Gêneros:**
    - Em seguida, o usuário deve inserir os nomes e seus respectivos gêneros no formato `nome-gênero`, onde o gênero pode ser `masculino` ou `feminino` (exemplo: `Raphael-masculino, Julia-feminino`).
